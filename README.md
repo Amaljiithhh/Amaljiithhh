@@ -28,12 +28,4 @@ Currently building my programming foundations and learning to create practical a
 ---
 
 *Consistency over perfection.*
-### 🌱 A Little About Me
 
-- 🎓 BSc Computer Science Graduate
-- 💻 Currently learning Python
-- 🚀 Learning by building, experimenting, and improving
-
----
-
-*One step at a time. One line of code at a time.*
