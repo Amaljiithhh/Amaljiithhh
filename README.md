@@ -2,25 +2,32 @@
 
 ### Aspiring Software Developer
 
-Computer Science graduate passionate about technology, problem-solving, and building useful things with code.
+Computer Science graduate interested in software development, technology, and problem-solving.
 
-I'm currently strengthening my programming fundamentals and exploring software development.
+Currently building my programming foundations and learning to create practical applications.
+
+### 🛠️ Technologies
+
+- Python — Learning
+- Git & GitHub — Beginner
+- VS Code
+
+### 🎯 Current Focus
+
+- Strengthening programming fundamentals
+- Practising Python
+- Building beginner-friendly projects
+- Improving problem-solving skills
+
+### 🌱 About Me
+
+- 🎓 BSc Computer Science Graduate
+- 💻 Exploring software development
+- 🚀 Learning by building, one project at a time
 
 ---
 
-### 🛠️ Currently Learning
-
-- Python
-- Programming Fundamentals
-- Git & GitHub
-
-### 🎯 My Goals
-
-- Build practical software projects
-- Improve my problem-solving skills
-- Learn new technologies
-- Grow as a software developer
-
+*Consistency over perfection.*
 ### 🌱 A Little About Me
 
 - 🎓 BSc Computer Science Graduate
